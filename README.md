@@ -16,7 +16,7 @@ This repository contains a Jupyter Notebook that analyzes the Titanic disaster d
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ShaiShillo/ML-Flow-Titanic.git
+   git clone https://https://github.com/KatzirZiv/ML-FLOW-Titanic.git
    cd ML-Flow-Titanic
    ```
 
